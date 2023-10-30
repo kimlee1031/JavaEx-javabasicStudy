@@ -10,6 +10,7 @@ public class Ex4_2 {
                 sum += i;
             }
         }
+
         System.out.println(sum);
 
     }
